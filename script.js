@@ -19,3 +19,4 @@ document.getElementById('convert-btn').onclick = function() {
     }
 
     outputDiv.textContent = convertToRoman(number);
+  }
