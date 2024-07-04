@@ -37,7 +37,7 @@ Follow the steps below to install and run the Roman_Numeral on your local machin
 After installation, you can use the Palindrome Checker as follows:
 
 1. *Run the Program*:
-    Open index.html from the root folder in your web browser.
+  Open index.html from the root folder in your web browser.
 
 2. **Input a String**:
   Enter the string you want to check when prompted.
